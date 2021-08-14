@@ -1,0 +1,146 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "16289226790a92bc2b": {
+      "type": "image-with-text",
+      "blocks": {
+        "16289226790a92bc2b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Founder Emma"
+          }
+        },
+        "16289226790a92bc2b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16289226790a92bc2b-0",
+        "16289226790a92bc2b-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about_1.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "162892269475301203": {
+      "type": "image-with-text",
+      "blocks": {
+        "162892269475301203-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Family Tradition"
+          }
+        },
+        "162892269475301203-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "162892269475301203-0",
+        "162892269475301203-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about_2.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1628922712673dbcc2": {
+      "type": "image-with-text",
+      "blocks": {
+        "1628922712673dbcc2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "12 Months to Barista"
+          }
+        },
+        "1628922712673dbcc2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1628922712673dbcc2-0",
+        "1628922712673dbcc2-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about_3.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1628922724862ae861": {
+      "type": "image-with-text",
+      "blocks": {
+        "1628922724862ae861-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Excellence"
+          }
+        },
+        "1628922724862ae861-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "93234a3d-cab0-49f2-a24b-9809b223e31f": {
+          "type": "button",
+          "settings": {
+            "button_label": "Try it yourself!",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1628922724862ae861-0",
+        "1628922724862ae861-1",
+        "93234a3d-cab0-49f2-a24b-9809b223e31f"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about_4.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16289227355fce5e64": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "coffee",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_vendor": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16289226790a92bc2b",
+    "162892269475301203",
+    "1628922712673dbcc2",
+    "1628922724862ae861",
+    "16289227355fce5e64"
+  ]
+}
