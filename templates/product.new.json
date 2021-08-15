@@ -1,0 +1,97 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-test-product",
+      "blocks": {
+        "38ad709a-e911-486a-ad95-d238d5049ccd": {
+          "type": "tax_notice_block",
+          "settings": {
+            "tax_notice_text": "look here"
+          }
+        },
+        "5b8110dc-504e-4c1a-960e-abec2da6f1aa": {
+          "type": "shipping_notice_block",
+          "settings": {
+            "shipping_notice_text": "no shipping"
+          }
+        },
+        "9ceed030-1398-4796-b178-1006f29efb31": {
+          "type": "product_price_block",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "38ad709a-e911-486a-ad95-d238d5049ccd",
+        "5b8110dc-504e-4c1a-960e-abec2da6f1aa",
+        "9ceed030-1398-4796-b178-1006f29efb31"
+      ],
+      "settings": {
+        "show_reviews": false
+      }
+    },
+    "1629008018104345c5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1629008018104345c5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Test Heading"
+          }
+        },
+        "1629008018104345c5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1629008018104345c5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Test Button Label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1629008018104345c5-0",
+        "1629008018104345c5-1",
+        "1629008018104345c5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about_4.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "second": {
+      "type": "main-test-product",
+      "blocks": {
+        "63b02254-32aa-43f5-874a-e0c1d09b560d": {
+          "type": "shipping_notice_block",
+          "settings": {
+            "shipping_notice_text": "OMG shipping"
+          }
+        },
+        "158f9163-f69b-404f-b3cc-8866ba65fd40": {
+          "type": "tax_notice_block",
+          "settings": {
+            "tax_notice_text": "wowowowowow"
+          }
+        }
+      },
+      "block_order": [
+        "63b02254-32aa-43f5-874a-e0c1d09b560d",
+        "158f9163-f69b-404f-b3cc-8866ba65fd40"
+      ],
+      "settings": {
+        "show_reviews": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1629008018104345c5",
+    "second"
+  ]
+}
